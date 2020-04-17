@@ -1,0 +1,2 @@
+rootProject.name='TrackerCriptoCurrency'
+include ':app'
